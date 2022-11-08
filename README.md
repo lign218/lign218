@@ -1,0 +1,4 @@
+git init
+git remote add origin "URL của repo vừa tạo"
+git add --all
+git commit -m "nội dung bạn muốn"
